@@ -15,7 +15,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## IMPORTANT
 
-You have to use your own Binary o General Tree Class with de Node Class corresponding
+You have to use your own Binary o General Tree Class with the Node Class corresponding
 
 ## Dependency Management
 
